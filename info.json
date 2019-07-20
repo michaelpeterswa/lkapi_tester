@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "lkapi_tester",
+            "version": "0.0.1",
+            "description": "this is a simple python program to test lkapi as a user",
+            "longDescription": "this program uses python and requests to test lkapi and show an example of how it is used",
+            "githubLink": "https://github.com/michaelpeterswa/lkapi_tester",
+            "date": "07.19.2019"
+        }
+    ]
+}
